@@ -1,5 +1,17 @@
 # ImageValidatorWeb
 
+Web page to render admin page and uploader pages for the ImageValidatorAPI.
+
+## Todos
+
+[ ] - Build createUploadRequest page.
+    * Page requires login authentication.
+
+
+---
+
+# Angular CLI generated instructions
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.22-1.
 
 ## Development server
